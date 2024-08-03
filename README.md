@@ -106,8 +106,4 @@ As a dedicated third-year Software Engineering student at NSBM Green University,
 
 ###
 <img src="https://raw.githubusercontent.com/Ayanabs/Ayanabs/output/snake.svg" alt="Snake animation" />
-<div align="center">
-  <a href="https://open.spotify.com/user/AyanaS">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=h5sc5kgtk2sa23lsroq9j144a&count=1" alt="Spotify Recently Played"  />
-  </a>
-</div>
+
