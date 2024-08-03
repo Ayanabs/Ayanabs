@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-Ayana Sagara <br>
+I'm Ayana Sagara <br>
 Final Year Software Engineer Student | NSBM Green University
 
 As a dedicated third-year Software Engineering student at NSBM Green University, in partnership with Plymouth University, UK, I am pursuing a BSc (Honours) in Software Engineering. My academic journey has equipped me with a solid foundation in both technical and interpersonal skills. I excel in communication and problem-solving, and I have gained hands-on experience across various development environments. I am a versatile candidate, ready to embrace challenges and collaborate effectively in any professional setting</p>
@@ -15,7 +15,7 @@ As a dedicated third-year Software Engineering student at NSBM Green University,
 ###
 
 <br clear="both">
-<br>
+
 <div align="right">
   <a href="https://www.instagram.com/ayan.__.a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="25" alt="instagram logo"  />
@@ -106,3 +106,8 @@ As a dedicated third-year Software Engineering student at NSBM Green University,
 
 ###
 <img src="https://raw.githubusercontent.com/Ayanabs/Ayanabs/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/AyanaS">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=h5sc5kgtk2sa23lsroq9j144a&count=1" alt="Spotify Recently Played"  />
+  </a>
+</div>
