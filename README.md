@@ -19,13 +19,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25" alt="linkedin logo"  />
 </div>
 
-###
 
 <br clear="both">
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ayanabs.Ayanabs&left_color=crimson&left_text=Profile%20Views"  />
-
-###
 
 <br clear="both">
 
