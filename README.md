@@ -101,3 +101,4 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/Ayanabs/Ayanabs/output/snake.svg" alt="Snake animation" />
