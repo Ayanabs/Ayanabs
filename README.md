@@ -13,11 +13,18 @@
 <br clear="both">
 <br>
 <div align="right">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="25" alt="instagram logo"  />
+  <a href="https://www.instagram.com/ayan.__.a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="25" alt="instagram logo"  />
+  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="25" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="25" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25" alt="linkedin logo"  />
+  <a href="ayanasagara.mail@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/ayana-sagara" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25" alt="linkedin logo"  />
+  </a>
 </div>
+
 
 
 <br clear="both">
@@ -85,6 +92,7 @@
 
 ###
 
+<h2 align="left">GitHub Stats</h2> 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayanabs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
