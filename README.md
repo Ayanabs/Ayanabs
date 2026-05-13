@@ -7,9 +7,9 @@
 ###
 
 <p align="left">
-I'm Ayana Sagara <br>
-Aspiring Software Engineer with a passion for developing innovative software solutions, solving complex problems, and continuously growing in the tech industry.
+I'm Ayana Sagara, an aspiring Software Engineer passionate about building innovative digital solutions and continuously improving my skills in software development. I enjoy solving complex problems, creating user-focused applications, and exploring modern technologies to develop impactful experiences.
 
+I’m particularly interested in full-stack development, mobile applications, and AI-powered systems, and I’m always eager to learn, collaborate, and grow within the tech industry.
 ###
 
 <br clear="both">
