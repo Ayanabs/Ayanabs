@@ -8,7 +8,7 @@
 
 <p align="left">
 I'm Ayana Sagara <br>
-Software Engineer
+Aspiring Software Engineer with a passion for developing innovative software solutions, solving complex problems, and continuously growing in the tech industry.
 
 ###
 
