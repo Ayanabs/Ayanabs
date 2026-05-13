@@ -8,7 +8,7 @@
 
 <p align="left">
 I'm Ayana Sagara <br>
-Software Engineer Student
+Software Engineer
 
 ###
 
